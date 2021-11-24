@@ -1,4 +1,4 @@
-#  Manav Gupta
+#  Vikash Kr Upadhyay
 Hii I'm Vikash Kr Upadhyay from India , currently I'm a student of Information Technology (CSE)
 
 ## Skills:
