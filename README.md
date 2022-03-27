@@ -8,7 +8,7 @@ Hii I'm Vikash Kr Upadhyay from India , currently I'm a student of Information T
 
 ### Status:
 - 🔭 I’m currently working on small projects
-- 🌱 I’m currently learning UX | python | DSA | C++|
+- 🌱 I’m currently learning Django | python | DSA | C++|
 
 
 <h3 align="left">Connect with me:</h3>
