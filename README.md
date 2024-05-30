@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Vue](https://github.com/vikash-64/VUE-JS-LEARNING-SHOWCASE)
 
-- 🌱 I’m currently learning **Vue , Django RestFramework**
+- 🌱 I’m currently learning **Generative AI , Django RestFramework**
 
 - 💬 Ask me about **Django , Machine Learning**
 
