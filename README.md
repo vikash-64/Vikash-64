@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vikash-64" alt="vikash-64" /></a> </p>
 
-- 🔭 I’m currently working on [Vue](https://github.com/vikash-64/VUE-JS-LEARNING-SHOWCASE)
+- 🔭 I’m currently working on Gen AI
 
 - 🌱 I’m currently learning **Generative AI , Django RestFramework**
 
