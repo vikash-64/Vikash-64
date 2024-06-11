@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on Gen AI
 
-- 🌱 I’m currently learning **Generative AI , Django RestFramework**
+- 🌱 I’m currently learning **Generative AI **
 
-- 💬 Ask me about **Django , Machine Learning**
+- 💬 Ask me about **Django , Machine Learning , LLM**
 
 - 📫 How to reach me **vikash400001@gmail.com**
 
